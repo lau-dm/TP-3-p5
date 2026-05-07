@@ -36,11 +36,7 @@ function drawBackground() {
   rect(width / 2, height / 2, width / 2, height / 2);
 }
 
-// oso polar
-
 function drawBear() {
-
-  // centra el oso
   translate(width / 2 - 450, height / 2 - 550);
 
   stroke(25);
