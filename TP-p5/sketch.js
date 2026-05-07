@@ -158,6 +158,7 @@ function drawBear() {
   );
 
 // cuerpo
+
 // torso izquierdo
 fill(210, 218, 218);
 
